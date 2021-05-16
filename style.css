@@ -67,12 +67,12 @@ body {margin:0;}
     
   }
   .resume:hover{
-    background-color: lightslategray;
-    color: white;
+    background-color: lightgrey;
+    color: darkslategray;
     font-weight: bold;
   }
   .skills{
-      background-color: #DCDCDC;
+      
       padding:30px;
   }
   .sk{
@@ -87,8 +87,8 @@ body {margin:0;}
   }
   #skill{
       border-radius: 50%;
-      height:100px;
-      width:100px;
+      height:70px;
+      width:70px;
       padding:5px;
   }
   #prof{
@@ -105,9 +105,44 @@ body {margin:0;}
     height:250px;
     width:100%;
 }
-.footer{
+.profiles{
     text-align: center;
     padding:20px;
     background-color: lightsteelblue;
     margin-top: 20px;
+}
+
+.contacts {
+  text-align: center;
+  background-color: mediumpurple;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+  .navbar a {
+    padding: 12px 7px;
+    font-size: 10px;
+  }
+  .console-container {     
+    height: 200px;
+    width: 100%;
+    font-size: 40px;
+    padding-top:50px;    
+    
+  }
+  .about {
+    height:350px;
+    width:100%;
+    color:darkslategray;    
+    padding:30px;
+  }
+  .about h1{
+    font-size: 20px;
+  }
+  .about h5{
+    font-size: 15px;
+  }
+  .about h4{
+    font-size: 18px;
+  }
 }
