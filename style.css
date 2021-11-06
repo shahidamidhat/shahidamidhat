@@ -307,6 +307,10 @@ header .navbar ul li a:hover{
     background-image: url("https://raw.githubusercontent.com/shahidamidhat/PersonalBlogApp/main/api/client/Demo.PNG");
     background-size: cover;
 }
+.notify{
+    background-image: url("https://github.com/shahidamidhat/notifyyApp/blob/main/demo.PNG");
+    background-size: cover;
+}
 
 .url{
     background-image: url("https://raw.githubusercontent.com/shahidamidhat/shahidamidhat/main/public/url.PNG");
