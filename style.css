@@ -307,7 +307,7 @@ header .navbar ul li a:hover{
     background-image: url("https://raw.githubusercontent.com/shahidamidhat/PersonalBlogApp/main/api/client/Demo.PNG");
     background-size: cover;
 }
-.box sm { 
+.sm { 
     background-image: url("https://raw.githubusercontent.com/shahidamidhat/SocialApp/main/Demo.PNG");
     background-size: cover;
     
