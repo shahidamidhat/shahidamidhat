@@ -312,8 +312,8 @@ header .navbar ul li a:hover{
     background-size: cover;
 }
 
-.url{
-    background-image: url("https://raw.githubusercontent.com/shahidamidhat/shahidamidhat/main/public/url.PNG");
+.sm{
+    background-image: url("https://raw.githubusercontent.com/shahidamidhat/SocialApp/main/Demo.PNG");
     background-size: cover;
     
 }
